@@ -1,6 +1,5 @@
 ## 📋 Índice
 
-
 - [🖼 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas)
 - [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento)
 - [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos)
@@ -13,13 +12,12 @@
 - [📕 Guia de Estilo](#-guia-de-estilo)
 - [📁 Desafios](#-desafios)
 - [👥 Aumentando o network](#-aumentando-o-network)
-- [👨🏫 Estudos](#-estudos)
+- [👨‍🏫 Estudos](#-estudos)
 - [🏨 Hosting](#-hosting)
 - [🔓 Pentest](#-pentest)
 - [🎥 Canais no YouTube](#-canais-no-youtube)
 - [🎙 Podcasts](#-podcasts)
 - [🏢 Business](#-business)
-
 
 ## 🖼 Banco de imagens gratuitas
 * [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
@@ -59,7 +57,6 @@
 * [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
 * [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
-
 
 ## 🔧 Ferramentas de desenvolvimento
 * [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
@@ -130,7 +127,6 @@
 * [WordPress](https://wordpress.org/) - Criação de blogs
 * [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 
-
 ## 🗂 Gerenciamento de projetos
 * [Asana](https://asana.com/pt) - Gerenciamento de trabalho
 * [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas
@@ -152,7 +148,6 @@
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 
-
 ## 🆓 Freebies
 * [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 * [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
@@ -166,7 +161,6 @@
 * [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
 * [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
 * [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
-
 
 ## 📝 IDEs e editores de código
 * [Atom](https://atom.io/) - Editor de código do GitHub
@@ -188,7 +182,6 @@ para a Linguagem R e suas variantes
 * [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
 * [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
-
 
 ## 🖌 Design Front-end
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
@@ -240,10 +233,9 @@ para a Linguagem R e suas variantes
 * [SweetAlert2](https://sweetalert2.github.io/) - Biblioteca JavaScript de alertas responsivos e customizáveis
 * [Tailwind CSS](https://tailwindcss.com/) - Framework de estilo CSS
 * [UI Gradients](https://uigradients.com/) - UI gradientes para utilizar
-* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais (SVG, EPS, DXF)
+* [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 * [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 * [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
-
 
 ## 🖌 Biblioteca de ícones
 * [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis
@@ -255,7 +247,6 @@ para a Linguagem R e suas variantes
 * [LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
 * [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
-
 ## ☁ IDE Cloud
 * [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
 * [CodeChef](https://www.codechef.com/ide) - Plataforma de codificação na nuvem
@@ -266,7 +257,6 @@ para a Linguagem R e suas variantes
 * [RStudio.Cloud](https://rstudio.cloud/) - IDE online para codificação na linguagem R com integração com o GitHub
 * [Repl.it](https://repl.it/) - Plataforma de codificação na nuvem
 * [Stackblitz](https://stackblitz.com) - Plataforma de codificação na nuvem
-
 
 ## 🔤 Linguagens de programação
 * [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
@@ -294,7 +284,6 @@ para a Linguagem R e suas variantes
 * [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura
 * [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 
-
 ## 📕 Guia de Estilo
 * [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb
 * [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb
@@ -302,7 +291,6 @@ para a Linguagem R e suas variantes
 * [Google - C++](https://google.github.io/styleguide/cppguide.html) - Guia de estilo de código em C++ do Google
 * [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google
 * [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google
-
 
 ##  📁 Desafios
 * [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
@@ -338,7 +326,6 @@ para a Linguagem R e suas variantes
 * [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
 * [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
 
-
 ## 👥 Aumentando o network
 * [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
 * [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
@@ -351,8 +338,7 @@ para a Linguagem R e suas variantes
 * [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 * [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 
-
-## 👨🏫 Estudos
+## 👨‍🏫 Estudos
 * [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
 * [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
 * [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
@@ -409,7 +395,6 @@ para a Linguagem R e suas variantes
 * [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
 * [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 
-
 ## 🏨 Hosting
 * [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
 * [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
@@ -432,7 +417,6 @@ para a Linguagem R e suas variantes
 * [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 * [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless
 
-
 ## 🔓 Pentest
 * [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 * [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
@@ -443,7 +427,6 @@ para a Linguagem R e suas variantes
 * [NMap](https://nmap.org/) - Scanner de portas de rede
 * [picoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 * [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
-
 
 ## 🎥 Canais no YouTube
 * [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
@@ -486,7 +469,6 @@ para a Linguagem R e suas variantes
 * [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
 * [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
 
-
 ## 🎙 Podcasts
 * [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps
 * [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
@@ -506,8 +488,6 @@ para a Linguagem R e suas variantes
 * [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 * [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 * [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
-
-
 
 
 ## 🏢 Business
