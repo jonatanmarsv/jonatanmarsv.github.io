@@ -82,10 +82,15 @@ function Passaro(alturaJogo) {
     this.getY = () => parseInt(this.elemento.style.bottom.split('px')[0])
     this.setY = y => this.elemento.style.bottom = `${y}px`
 
+    // Controle com o teclado
     window.onkeydown = e => voando = true
     window.onkeyup = e => voando = false
+    // Controle com o mause
     window.onmousedown = e => voando = true
     window.onmouseup = e => voando = false
+    // Controle com o toque na tela do celular
+    window.ontouchstart = e => voando = true		
+	window.ontouchmove = e => voando = false
 
     this.animar = () => {
         const novoY = this.getY() + (voando ? 8 : -5)
